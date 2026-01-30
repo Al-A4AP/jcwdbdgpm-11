@@ -27,7 +27,7 @@ console.log(bithdate.getTime());
 bithdate.setMonth(11);
 console.log(bithdate);
 
-//JS & TS disinsi menghitung bulan mualai dari angka 0
+//JS & TS disinsi menghitung bulan mulai dari angka 0
 
 /* ---------------------------------- NOTES --------------------------------- */
 let array =["A", "B", "C"];
