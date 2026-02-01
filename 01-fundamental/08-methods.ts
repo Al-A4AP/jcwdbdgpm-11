@@ -13,7 +13,7 @@ console.log("Noel sedang jalan-jalan di depan rumah Noel".replaceAll ("Noel", "*
 console.log("Noel sedang jalan-jalan di depan rumah Noel".split (" ").join(""));
 
 /* ---------------------------- 2. NUmber Method ---------------------------- */
-console.log((121.46464).toFixed(2));
+console.log((121.46464).toFixed(0));
 
 /* ----------------------------- 3. Date Method ----------------------------- */
 const bithdate = new Date("1998-05-01");
