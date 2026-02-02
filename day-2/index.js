@@ -1,8 +1,8 @@
 const prompt = require('prompt-sync')();
 
 const destinasi = prompt('Masukan destinasi perjalanan: ');
-const jarak = parseFloat(prompt('Masukan jarak perjalanan (km)'));
-const kecepatan = parseFloat(prompt('Masukan kecepatan rata-rata (km/jam)'));
+const jarak = parseFloat(prompt('Masukan jarak perjalanan (km):'));
+const kecepatan = parseFloat(prompt('Masukan kecepatan rata-rata (km/jam):'));
 
 const totalWaktu = jarak / kecepatan;
 
