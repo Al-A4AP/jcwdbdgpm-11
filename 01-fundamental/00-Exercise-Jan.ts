@@ -2,10 +2,10 @@
 let l = 5;
 let w = 3;
 let hasilLW = l * w; 
-let perimetlLW = 2 * (l * w);
+let perimetlLW = 2 * hasilLW;
 
 console.log(hasilLW);
-console.log(perimetlLW;
+console.log(perimetlLW);
 
 /* ----------------------------------- 03 ----------------------------------- */
 let r = 5;
